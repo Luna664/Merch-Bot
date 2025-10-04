@@ -1,1 +1,1 @@
-worker: python merch-bot.py
+python merch-bot.py
