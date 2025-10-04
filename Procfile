@@ -1,1 +1,1 @@
-python merch-bot.py
+web: python merch-bot.py
